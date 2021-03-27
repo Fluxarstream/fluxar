@@ -1,0 +1,29 @@
+body{
+    padding-top: 5rem;
+}
+
+#start-video{
+    border-radius: 3px;
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 3px solid #333;
+    transition: all 0.2s ease-in-out;
+}
+
+#start-video:hover{
+    color: #fff;
+    background: #333;
+}
+
+#start-streaming{
+    border-radius: 3px;
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 3px solid #333;
+    transition: all 0.2s ease-in-out;
+}
+
+#start-streaming:hover{
+    color: #fff;
+    background: #333;
+}
